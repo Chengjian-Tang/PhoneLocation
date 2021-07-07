@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">e饭来电归属</string>
+    <string name="phonelocation">归属地查询</string>
+    <string name="preference">显示设置</string>
+    <string name="about">关于</string>
+    <string name="search">查询</string>
+    <string name="province">省　份:</string>
+    <string name="city">城　市:</string>
+    <string name="zonecode">区　号:</string>
+    <string name="agentname">运营商:</string>
+    <string name="xoffset">水平位置偏移:</string>
+    <string name="yoffset">垂直位置偏移:</string>
+    <string name="test">测试</string>
+    <string name="save">保存</string>
+    <string name="testinfo">中国移动</string>
+    <string name="dbversion">数据库版本:</string>
+    <string name="appversionlabel">程序版本:</string>
+    <string name="emaillabel">电子邮箱:</string>
+    <string name="appinfo">e饭来电归属是一个能显示来电和去电号码归属地的软件.它的特点是体积小,功能单一.任何建议或问题请联系作者.谢谢!</string>
+	<string name="custlocation">自定义归属地</string>
+	<string name="addcustloc">新增归属地信息</string>
+	<string name="delcustloc">删除归属地信息</string>
+	<string name="updatecustloc">修改归属地信息</string>
+	<string name="nocustlocion">无自定义归属地信息</string>
+	<string name="phoneno">电话号码:</string>
+	<string name="custlocationinfo">归属地信息:</string>
+	<string name="confirm">保存</string>	
+	<string name="custlocexist">该记录已存在,不能完成该操作</string>
+	
+</resources>

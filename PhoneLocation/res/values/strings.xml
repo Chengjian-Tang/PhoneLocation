@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhoneLocation</string>
+    <string name="phonelocation">PhoneLocation</string>
+    <string name="preference">Preference</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="province">Province:</string>
+    <string name="city">City:</string>
+    <string name="zonecode">Code:</string>
+    <string name="agentname">Provider:</string>
+    <string name="xoffset">XOffset:</string>
+    <string name="yoffset">YOffset:</string>
+    <string name="test">Test</string>
+    <string name="save">Save</string>
+    <string name="testinfo">TestInfomation</string>
+    <string name="dbversion">Database Version:</string>
+    <string name="appversionlabel">App version:</string>
+    <string name="appversion">0.2</string>
+    <string name="emaillabel">Email:</string>
+    <string name="email">feelowtang@gmail.com</string>
+    <string name="appinfo">PhoneLocation is a tiny application that can show the incoming or outgoing call number location in Chinese Mainland.Any suggestions or problems please contact the author.Thanks!</string>
+	<string name="custlocation">Custom Location</string>
+	<string name="addcustloc">Add a new custom locaiton</string>
+	<string name="delcustloc">Delete custom location</string>
+	<string name="updatecustloc">update the custom location</string>
+	<string name="nocustlocion">No custom location</string>
+	<string name="phoneno">Phone No:</string>
+	<string name="custlocationinfo">Custom Location:</string>
+	<string name="confirm">Confirm</string>
+	<string name="custlocexist">The Phone No is exist, cannot be added</string>
+</resources>
